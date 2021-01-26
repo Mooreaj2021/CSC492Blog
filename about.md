@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The team RAID inc. cosists of the following members below
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Andrew Moore
+Hello I'm currently a student at the University of Mount union majoring in Multiplatform Software Development and minoring in Entrpenuership. I am in my senior year at the time of writing this.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mooreaj2021@mountunion.edu](mailto:mooreaj2021@mountunion.edu)
